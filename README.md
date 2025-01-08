@@ -1,2 +1,4 @@
 # GTAG-scuffed-stuff
-MAAMAMAMAMAMAMA
+
+this is were you make your very own scuffed gtag game
+'
